@@ -6,7 +6,7 @@
 
 # 🚀 Olá, somos o grupo [Brain-Tech-Data] - Software Developer 
 
-## Sobre mim
+## Sobre nós
 
 ✨ Somos uma Equipe de Desenvolvedores ✨
 
@@ -34,18 +34,19 @@
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
-1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição emocionante do projeto e como ele mudou o mundo.
-2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma aventura fascinante com código e arte.
-3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
-4. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
-5. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
+1. [Produtividade por profissão
+](https://github.com/[seu-usuario]/projeto1): Uma descrição simples.
+2. [Gestão de entregas e rotas para pequenos operadores](https://github.com/[seu-usuario]/projeto2):  Uma descrição simples.
+3. [Apps de IA “assistente”](https://github.com/[seu-usuario]/projeto3): Uma descrição simples.
+4. [Aplicativos de compliance operacional](https://github.com/[seu-usuario]/projeto3):  Uma descrição simples.
+5. [Projeto 5](https://github.com/[seu-usuario]/projeto3): Uma descrição simples.
 
 
 ## Vamos Conectar!
 
-[![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
-[![Facebook](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
-[![Linkdin](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Linkedin&logoColor=white&link={Link})]({Link})
+[![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link={Link})]({Link})
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link={Link})]({Link})
+[![Linkdin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link={Link})]({Link})
 
 
 ![brain-tech-data GitHub stats](https://github-readme-stats.vercel.app/api?username=brain-tech-data\&rank_icon=percentile)
