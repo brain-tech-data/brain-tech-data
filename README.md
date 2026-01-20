@@ -4,7 +4,7 @@
 
 </div>
 
-# 🚀 Olá, somos o grupo [Brain-Tech-Data] - Software Developer 
+# 🚀 Olá, somos o grupo [Brain-Tech-Data] - Software Developers 
 
 ## Sobre nós
 
@@ -12,7 +12,7 @@
 
 ## Habilidades Tecnológicas
 
-💻 Aqui estão algumas das tecnologias que eu domino:
+💻 Aqui estão algumas das tecnologias que utilizamos:
 
 -  Linguagens de Programação: 
 
