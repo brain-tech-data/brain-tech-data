@@ -32,7 +32,7 @@
     [![My Skills](https://skillicons.dev/icons?i=javascript,html,css)](https://skillicons.dev) 
 ## Projetos Criativos
 
-🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
+🎨 Aqui estão alguns dos nossos projetos mais criativos e inovadores:
 
 1. [Produtividade por profissão
 ](https://github.com/[seu-usuario]/projeto1): Uma descrição simples.
