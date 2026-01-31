@@ -34,11 +34,10 @@
 
 🎨 Aqui estão alguns dos nossos projetos mais criativos e inovadores:
 
-1. [Produtividade por profissão
-](https://github.com/[seu-usuario]/projeto1): Uma descrição simples.
-2. [Gestão de entregas e rotas para pequenos operadores](https://github.com/[seu-usuario]/projeto2):  Uma descrição simples.
-3. [Apps de IA “assistente”](https://github.com/[seu-usuario]/projeto3): Uma descrição simples.
-4. [Aplicativos de compliance operacional](https://github.com/[seu-usuario]/projeto3):  Uma descrição simples.
+1. [Produtividade por profissão](https://github.com/brain-tech-data/produtividade-pro): Organizar agenda, clientes  e pagamentos  em um único lugar.
+2. [Gestão de entregas e rotas para pequenos operadores](https://github.com/brain-tech-data/gestao-entregas): Ajudar a pequenos operadores a organizar suas entregas.
+3. [Apps de IA “assistente”](https://github.com/brain-tech-data/apps-assistente): Um assistente que  executa tarefas operacionais
+4. [Aplicativos de compliance operacional](https://github.com/brain-tech-data/app-compliance):  o controle de compliance operacional.
 5. [Projeto 5](https://github.com/[seu-usuario]/projeto3): Uma descrição simples.
 
 
